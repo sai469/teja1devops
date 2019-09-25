@@ -37,6 +37,13 @@ this is new file7
 
 
 
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/sai469/teja1devops.git
+git push -u origin mas
+
+
 
 
 
